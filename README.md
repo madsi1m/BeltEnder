@@ -7,6 +7,7 @@ This is my mods/settiugs for my BeltEnder.
 - SKR mini e3 v2
 - Microswiss all metal hotend
 - Orbiter v2.0 from LDO Trianglelabs
+- Orbiter v2.2 Filament Sensor from LDO Trianglelabs (e0-stop + pt-det PC15 green, PC12 yellow) 
 - Sensorless homing for x and y
 - BLTouch
 
