@@ -2,12 +2,12 @@
 
 ## BeltEnder on its own
 
-[x](shaper_calibrate_x.png)
+[x](https://github.com/madsi1m/BeltEnder/blob/main/shaper_calibrate_x.png?raw=true)
 
-[y](shaper_calibrate_y.png)
+[y](https://github.com/madsi1m/BeltEnder/blob/main/shaper_calibrate_y.png?raw=true)
 
 ## BeltEnder on concrete slab
 
-[x](shaper_calibrate_concrete_slab_x.png)
+[x](https://github.com/madsi1m/BeltEnder/blob/main/shaper_calibrate_concrete_slab_x.png?raw=true)
 
-[y](shaper_calibrate_concrete_slab_y.png)
+[y](https://github.com/madsi1m/BeltEnder/blob/main/shaper_calibrate_concrete_slab_y.png?raw=true)
